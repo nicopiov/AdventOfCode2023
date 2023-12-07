@@ -8,7 +8,7 @@ Dedicated repo for Advent of Code 2023: https://adventofcode.com/
 
 - [x] 1  - Trebuchet?!
 - [x] 2  - Cube Conundrum
-- [ ] 3  - ??
+- [ ] 3  - Gear Ratios
 - [ ] 4  - ??
 - [ ] 5  - ??
 - [ ] 6  - ??
